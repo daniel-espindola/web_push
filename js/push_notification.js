@@ -1,4 +1,4 @@
-﻿vapidPublicKey = "xyz";
+﻿vapidPublicKey = "BNpO9HEZwiEhmAtW6JZ662E3t2-AXaAEQjRmyHrqTtEyDrGSenEjRgYcYqyT90fofsnQrGZlfx8nvADHLgIZUJ4";
 
 if ('serviceWorker' in navigator) {
     window.addEventListener("load", () => {
