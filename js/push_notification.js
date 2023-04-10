@@ -39,6 +39,7 @@ function getSubscription(reg) {
             }).then(function (sub) {
                 saveSubscription(sub);
             }).catch(function (e) {
+                console.log(e)
             });
         } else {
             saveSubscription(sub);
