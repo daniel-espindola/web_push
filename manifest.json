@@ -1,0 +1,17 @@
+{
+  "name": "B1SOFT",
+  "short_name": "B1SOFT",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9f9f9",
+  "theme_color": "#012c33",
+  "description": "Notificações da B1SOFT",
+  "permissions": [ "notifications" ],
+  "icons": [
+    {
+      "src": "android-chrome-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    }
+  ]
+}
